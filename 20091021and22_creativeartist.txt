@@ -1,0 +1,38 @@
+<div class="focus">
+<mt:Entries id="379">
+<h2><$mt:EntryTitle$></h2>
+<$mt:EntryBody$>
+<$mt:Include module="Reacties"$>
+</mt:Entries>
+</div>
+
+
+As i get older,
+what i write becomes
+though phrased it w
+more and more in content:
+love (or no love),
+and aging,
+and then death.
+
+
+Now I am not saying I have anything original to add on these subjects
+Most of what I am saying can be found in pop songs
+But I do find it important to discuss these things
+As the tendency to dismiss existential questions as to have no answers
+Makes no sense (literally)
+There are answers to give and discuss
+
+
+i find it amazing you think you can comprehend the extent to which you can comprehend
+
+thats how culture works
+  you just grab some random stuff together and put your name on it.
+
+‘if i would be religioius than this would be a religious experience’
+
+There is no meaning intrinsic to life. But producing meaning is intrinsic to living. Though Eric’s earlier work focused on the dichotomy between these observations
+
+we have this intense need to feel like we are supposed to be were we are, whereas the only thing you can really say about where you are is that you are there (you are).
+
+Eric tries to say what cant be said and tries to talk about what cant be talked about
