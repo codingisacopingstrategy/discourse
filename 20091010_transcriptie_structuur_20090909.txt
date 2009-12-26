@@ -1,7 +1,0 @@
-There are two ways in which I understand or have a productive view on culture and code. That is to say that I have the outskirts of a model that could apply to both.
-
-From an extreme distance we have the view of a network which is a distributed structure, or peer to peer structure, finding its application in distributed versioning and restful web services. This is a model which so accurately mirrors the nature of culture,that it will be very productive to apply these models to the description of culture or the production thereof.
-
-Then on the other hand we have on the smallest possible level (which is of course in an abstract way the biggest or most overarching), the theory of computation. I think computation is what goes on in our mind, therefore it makes a lot of sense to describe the world not in facts, but in functions—or at least equations. The discrepancies between traditional mathematics and the theory of computation will provide an excellent framework for trying to accomplish this.
-
-Note to self: there you have it. Now just do it.
