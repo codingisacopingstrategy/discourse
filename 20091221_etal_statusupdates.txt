@@ -111,3 +111,12 @@ blauwe plekken blijven blauw
 jij ziet er moe en sip uit
 
 zij spreken, spreken niet namens ons
+
+§
+
+quite productive week. even though i nearly froze wednesday. i learned about relational databases, distributed versioning and model controller view pattern.
+
+§
+
+quite beatiful bunch of git-mv’s
+getting cake php in there and the web app in cake php
