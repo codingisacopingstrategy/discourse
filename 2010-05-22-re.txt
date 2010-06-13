@@ -1,0 +1,77 @@
+Research proposal
+
+Ziggy over Zarathustra
+
+My hypothesis is that David Bowie succeeded where Friedrich Nietzsche failed, and that there are lessons to be learned from Bowie’s successes.
+
+20th century musicians like Bowie and Prince can be seen as to exemplify Nietzsche’s ideal of the ‘new philosopher’. Through means of mass communication and mechanical reproduction, their work has been able to resonate with an audience on a large scale. and take part in defining the cultural landscape.
+
+In visual arts, Andy Warhol can be seen as an example of an artist who shares recognition among artists, scholars, and the general cultural public. Arthur C. Danto points to Warhol as the moment where art turns into philosophy: Andy could be seen as a new philosopher too.
+
+In the present day, the means of reproduction and dissemination have shifted again because of the digital revolution.
+
+In my research I would like to figure out what it was that made Bowie so successful in articulating his sensibilities, and how his methodologies would translate to contemporary modes of production.
+
+I want to find out how to create a design practice which:
+-takes place on the nexus of pop culture and institutionalised art
+-is at the nexus of private introspection and public dissemination
+-readily explores all available technology in order to do so.
+
+A more recent example of such as practice to me is the work of Jenny Holzer.
+
+My research is in part theoretical, analysing the works and context of Bowie and Nietzsche.
+
+I want to put theory into practice as well, to find out models that can be used today. Practical experiments led by my own preoccupations with meaning, with saying what can not be said. Meaning is not contained within the words. Rather it is a sensation, a sensation that can reach the ecstatic.
+
+As a medium I want to take current software technology as a starting point. I aim to use the technologies of social networks, and the possibility to interface with them programmatically.
+
+In this light I am interested in digital media and especially in the rapidly lowering barrier of access to software technology. Open source makes available to the public the entire stack of an operating system, grounded in traditions of academia (often funded by the military) and large corporations. The internet also offers unprecedented access to documentation and educational materials with regards to this technology. The whole stack, and with it, an entire tradition, becomes ours to subvert and appropriate. I find this quite amazing, and I think we have only just begun to explore this potential.
+
+I will document my process on the technology blog which I will start, ‘I like tight pants and mathematics’.
+
+add 1: Why are Bowie and Nietzsche similar?
+
+In the early 1970ies David Bowie starts to refer to Friedrich Nietzsche in his lyrics, on both his albums ‘the Man Who Sold the World’ and ‘Hunky Dory’. In the song Quicksand he sings: I’m not a prophet or a stone age man, just a mortal with potential of a superman’. And: ‘Should I kiss the viper’s fang, and herald loud the death of man?’
+
+The direct successor to these records, the 1972 ‘the Rise and Fall of Ziggy Stardust and the Spiders from Mars’ foregoes Nietzsche references for images of rock stardom. 
+
+In a way, though, this album is much more Nietzschean than its predecessors. 
+
+The narrative of a rockstar from space making it on earth before his eventual fall, can be seen as a more catchy instance of the supermen of the previous records. Moreover, the work can be directly compared to Nietzsche’s ‘Also sprach Zarathustra’ in which a prophet comes down from his cave to do his teachings to the public.
+
+Both works can be read as thinly veiled autobiographies, where the choice of an unusual medium verse (Nietzsche) and rock (Bowie) allow the to put in a lot of the ideas and fears and aspirations of both authors, that might otherwise have amounted to megalomania or sacrilegious. The process of mystification through the invention of the characters of Ziggy and Zarathustra allows the authors to take the freedom to reinvent themselves. Bowie later said: ‘it was like rewriting myself, really’. 
+
+add 2: Why are Bowie and Nietzsche different?
+
+When looking back on the Ziggy project Bowie stresses the aspect of embracing the present:
+
+ “Writers like George Steiner had nailed the sexy term post-culture and it seemed a jolly good idea to join up the dots for rock. The main platform would be, other than shoes, ‘we are the future, now’ and the one way of celebrating that was to create it by the only means at our disposal. With, of course, a rock ‘n’ roll band.”
+
+The future is now. Whereas for Nietzsche the future was still clearly in the future. After writing Zarathustra he had conceded that his philosophy would not be read and appreciated in his own time. His subsequent book ‘Jenseits von gut und böse’ has as its subtitle: prelude to a philosophy of the future. He also thinks it will not be him that is going to fulfill philosophy’s potential. He sketches the need for ‘new philosophers’: ‘in forerunners, in men of the future, who in the present shall fix the constraints and fasten the knots which will compel millenniums to take NEW paths’.
+
+Man of the future, acting in the present. An apt description of Ziggy.
+
+Bowie managed to find a massive crowd, Nietzsche never did. And although both men went through difficulties following the release of their seminal works, Bowie ended up on top. Nietzsche went insane.
+
+add 2: Why could Bowie do what Nietzsche could not?
+
+That Nietzsche had to leave for the future, what Bowie could achieve in his own time, can be attributed to several factors.
+
+We already touched on the role of mass media, but there is another important aspect: the rise of multi media.
+
+Both men possessed (and in Bowie’s case possess) a range of skills.
+
+Bowie is skilled both with words and with music, and had experience as an actor. Ziggy added his own talents to these of a host of others in a decidedly transdisciplinary endeavour. Bowie contributed songs, words, voice and looks. The musicians, the producer and the engineer contributed further to the sound. The photographic look was crafted by Mick Rock, the suits were designed by a Japanese fashion designer, and even Bowie’s hair style was conceived especially for him by his hairdresser. The early shows were inspired by the ‘Exploding plastic inevitable’ multi media shows Warhol made with The Velvet Underground. The shows featured elaborate set designs, projections and even a mime group.
+
+Nietzsche apparently had a broad range of talents and interests as well. He was quite musical and wrote Lieder. Next to that, ‘Also Sprach Zarathustra’ is full of references to dance. In her book: ‘Nietzsche's Dancers: Isadora Duncan, Martha Graham, and the Revaluation of Christian Values’ Kimerer L. LaMothe argues that these references should not be seen as metaphors: dance was important to Nietzsche in its own right.
+
+In his work, however, there was no way yet for these different media to fruition. It is just language that has to pull it of.
+
+The world just wasn’t transdisciplinary yet in the 19th century. It would take the 20th century avant-garde to change that.
+
+A question I would like to ask is if language alone suffices for the kind of questions Bowie and Nietzsche were dealing with. There is a maniacal element to their thinking of which I suspect can only really be sublimated in a performative setting.
+
+
+
+1) I think it comes as no surprise that I like Jenny Holzer very much.
+1) An example: Prince, when recording the vocals for the Sign o’ the times album, would do so in the control room of the studio, sending away all engineers after they prepared the session, leaving him alone with the microphone to sing. I am struck by the contrast between this highly inward looking ritual, and its imprint as an artifact that is reproduced literally millions of times.

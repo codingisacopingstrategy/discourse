@@ -1,0 +1,245 @@
+Eric Schrijver Via Alexandre Monnin (though luckily I had been introduced to these concepts by Hans de Weme’s primer way back :)) Concise and clear:
+www.youtube.com
+www.youtube.com
+11 uur geleden · Reageren · Vind ik leuk · Delen
+
+Eric Schrijver Oh wait. It doesn’t show what it is. ‘Intro to the semantic web’ is what it is called.
+11 uur geleden · 
+
+Eric Schrijver Still, it seems quite bizarre to claim that computers need to ‘understand’ data on the web. Have computers ever shown the capacity to understand anything whatsoever? Also he says: ‘so the computer can help you by…’ ascribing agency to the computer which I think does not make sense.
+11 uur geleden · 
+
+Eric Schrijver There is always people on the other end; the most advanced semantic algorithms are used by google and facebook to offer you ads.
+
+To me it seems these technologies could mainly help *us* i to take more control over the data we produce ourselves, how it is linked and how it is indexed.
+11 uur geleden · 
+
+Eric Schrijver And of course I could also be a real b*tch and complain that it is fundamentally impossible to distinguish syntax and semantics. But saying that would not be very productive… :)
+11 uur geleden · 
+
+
+
+En ik kan me voorstellen dat ze bij de afdeling interactive media design ook in een studentenprogramma geïnteresseerd zouden zijn.
+
+
+
+**ik mail familiair, we hebben elkaar nooit gesproken, maar gek genoeg voelt dat zo aangezien we op dezelfde mailing list posten…
+
+
+Les interactions communautaires virtuelles auraient des effets bénéfiques dans la vraie vie des communautés!
+
+
+
+
+
+(progressie: ik kan de wereld wel willen art directen, maar het heeft meer urgentie dat ik zelf geartdirect wordt :))
+
+
+
+
+I have an intense interest in epistomology and mathematical linguistics, but talking about that somehow only makes sense when I put on shiny pants. Meaning is performative.
+
+
+i dont know if its fun it could b deadldy si∑euowdu
+
+here tight pants meet mathematics, I care about the model: 
+
+. but I like what a model is in this configuration: the structure that makes the outside world interpretable by the inside
+
+: before mathematics, thre were tight pants
+Atelierbezoek van en lunch met Ulay, zijn devies: ‘focus met de hocus pocus’
+
+(that http requests can not ‘see past themselves’ is a central part of what is called RESTful architecture, which is a smart way of describing the strengths of the world wide web)
+
+
+this could enable the kind of parallel and serial layerings i drew april 7th
+
+(sidenote: though in that case the boundaries between user, app and data source do start to blur. an app does not know if it is a user or an app which is sending requests to it. and a datasource has to be an app to some extent, because it needs some logic to figure out what to do with the HTTP request. a data source might be said to be an app that does not issue any http requests itself, it only sends responses.)
+
+
+Honestly, what is it I am trying to do here? As I have the feeling I am doing something I like to do, yet do not know what it is exactly, yet in order to further my professional career I need to be able to articulate this as an art project. So help me articulate!
+I have the feeling I am exploring the borders between sciences and humanities, in a social sense. I also feel like I want to find out to what extent differences are perceived (artists tend to think mathematics are hard) and real (mathematics are hard on the artist’s brain).
+
+ That is only going to work if I can put into words what it is about. What is it about?
+
+On a professional level, it makes sense for me to turn I♥TP&M into an art project (i.e. collaborate with institutions).
+
+want to do some projects. And for projects, you need words on what projects about
+
+
+(maybe i hijack the server of the d.c.r.)
+
+cool beatiful
+
+
+if computers can recognize
+computers actively helping us?
+computers understand the meaning behind web page
+
+things
+concepts
+how these things are related to each other
+
+
+Was actually talking with Johan Nieuwenhuize about this wednesday. The ease with which we pay for free services with our privacy. And the need for awareness and alternatives. Oh shit. Now Facebook knows I met Johan on wednesday. And they know I link to this article about distributed alternatives to Facebook.
+
+
+I am trying to articulate my ideas.
+I thought making drawings was a good tool for that.
+
+
+How can I produce my (X)HTML so that it is not only the end product of a publishing process, but also the possible starting point for a new cycle?
+I would think technologies like RDF etc. 
+So that a content management system
+
+
+I send you an invite for Google Wave, Rui and me use it to talk abou
+
+
+I make some more drawings first tomorrow, helps me make accesible to myself my thoughts!
+
+I said was going to mail you, which I will be doing (or actually am doing :)
+
+in a very concrete sense i was wondering, in what ways can i use rdf to make xhtml more 
+
+
+
+I was meaning to formulate you some practical questions on RDF, but I feel like I should work on my abstract propositions a bit first… And I only heard this on a short notice, but tomorrow I have a studio visit
+
+
+
+
+by Ulay (of Ulay & Abromovic) so I had to focus also on that…
+
+§
+
+Props from the city of the Hague, not far from Martijn’s *Delft! Came across Wolf CMS via Frog, which 
+
+§
+
+<p>Fashionable meditations allows you to automatically generate an appropriate status update. The algorithm makes use of your unique and quirky individuality in order to come up with a message that is just right.  Striking a balance between the ridiculous and sublime, embracing the transient nature of digital networks for a flavor that is decidedly contemporary.</p>
+
+, embracing the transient nature of digital networks for a flavour that is decidedly contemporary.
+
+§
+
+Generates a status that strikes a balance between the ridiculous and the sublime, befitting of your quirky individuality and the transient nature of social networks.
+The algorithm has been based on a draft for an artist’s statement.
+
+§
+
+i do find it interesting that dealing with science in a religious way (singularity
+
+Ratio has
+
+
+idiots. idiots. i.m.h.o. of course :)
+in nature, there is 
+lik
+
+-technology already exceeds
+-machines have not been getting s
+
+Most probably friends of friends. After that comes the probability of friends of friends of friends. After that, friends of friends of friends of friends. etc :-)
+
+submitting a research proposal ‘David Bowie succeeded where Friedrich Nietzsche failed’ to the Jan van Eyck academy; the question is, Art or Design department?
+
+§
+
+For the first time in my life I am running my own server, from the cloud, and I can not *how awesome* it is! It is amazing to find out how simple unix works, especially if you have well written guides like the ones I linked to. I can do it in my spare time.
+
+Ten years ago you have had to buy an operating system, a really expensive computer and you would have had to hire a system administrator who would never fit into tight pants. Now you just login from your laptop when you feel like it. A specific history of scientific innovation that is tightly coupled to the needs of corporations and the military becomes ours to subvert and appropriate!
+
+
+(I am actually hiring the VPS from XLShosting in Rotterdam)
+
+I am now running a unix (well, linux) server from the cloud. It is easy. And affordable. Which surprised me! It is hard to overestimate how awesome it is when this kind of technology becomes accesible…
+
+Ten years ago one would have had to buy an operating system, a really expensive computer, a room to put it in, and one needed to hire a system administrator who would never fit into tight pants!
+
+(I am actually renting from XLS hosting in Rotterdam, I am linking to slicehost articles as they are super informative with regards to setting up a VPS (virtual private server).)
+
+Nowadays, everybody with a laptop and bright ideas can start to appropriate this technology. One can combine rock and roll lifestyle with server administration. That is the ideal anyways. But I do think a whole tradition has suddenly become ours to subvert and appropriate! (I am not just talking about hosting, but about the entire unix software stack). Disruptive innovation should be inevitable, no?
+
+
+
+
+I saw a tall dark haired man, rolling out of his Parisian bed. The sun is already shining bright as he the party was on till the morning. He jumps into clothes, puts on a leather jacket. He grabs his powerbook to make some vital adjustments to his server, before leaving his appartment for a meeting with nice people.
+
+Thursday, friday, working all night on new texts—than Saturday—partying all night with the Hemkes sisters. Coming home, I see Alexandre asks me to help him with an ontology. As I roll out of bed the next morning, I grab my macbook to write a message, before leaving my studio for a meeting with nice people
+
+
+
+Alexandre Monnin? Say I am using blog software. Could I use RDF in my generated XHTML so that there is enough cues in my markup for a software program to be able to parse it back into a relational database?
+
+
+Then, your output could be considered the source. Which would potentially mean *any* program could edit this source. This would free the data from the confines of the specific application you are using. (The current situation is quite ludicrous. It is worse than proprietary file formats: it is as if Microsoft Word contained its own filesystem within the application).
+
+An obvious example being, that you would not be tied to one program to edit/generate your XHTML.
+
++ (distributed) versioning becomes easy (git ftw)
+what you would need to add to existing software is a parser that reads the outputted material and parses it back into the database.
+
+
+
+
+
+
+
+Hey Daniel, how are you?
+
+it is nice to read about your interests in mysticism.
+
+I became a bit of a mysticist last spring, although I guess I am a materialist (in the philosophical sense) mysticist (as in, there is no need to postulate anything beyond matter. Immanence for the win :-) )
+
+I thought you might be interested in some things I have written, as these themes come up inbetween the lines:
+
+http://danslab.residentie.net/index.php?s=12&c=77&l=10
+
+take care,
+
+Eric
+
+
+
+
+
+
+Hard werken voor hen.
+
+Ze zijn als het ware het gereedschap dat we het publiek geven
+om kleine grappen te genereren met het materiaal van de voorstelling
+
+Er was een stuk naar Proust.
+Bij het einde zei de man: ik heb er allemaal erg weinig van begrepen.
+Hij zij het op die vertwijfelde intonatie die het zo mooi doet vlak voor het doek valt.
+
+
+als je het niet in staat is de grap te vertalen naar de eigen kleine grapjes.
+
+Om deze mogelijkheid te geven, moet je gebruik maken van extra grapjes.
+De extra grapjes zijn vorm.
+
+De vorm vormt de cues voor de vertaalslag die de ander gaat
+
+
+So via RTomayko I started reading <a href="http://cappuccino.org/discuss/2010/04/28/introducing-jake-a-build-tool-for-javascript/" title="Cappuccino Blog  &raquo; Blog Archive   &raquo; Introducing Jake: A Build Tool for JavaScript">about makefiles</a>, <a href="http://rake.rubyforge.org/" title="Rake -- Ruby Make">Rake</a>, started reading Martin Fowler’s article on the matter then he mentioned XSLT and <a href="http://nl.wikipedia.org/wiki/Apache_Ant">Ant</a> so I had to check that out (and edit the Dutch wikipedia article). This of course made me curious about the mother of all this software, <a href="http://en.wikipedia.org/wiki/Make_(software)" title="make (software) - Wikipedia, the free encyclopedia">Make</a>.
+
+
+Later that evening… webserver interfaces like <a href="http://chneukirchen.org/blog/archive/2007/02/introducing-rack.html" title="chris blogs: Introducing Rack">Rack</a> and WSGI the latter <a href="http://izumi.plan99.net/blog/index.php/2008/06/11/wsgi-on-phusion-passenger/" title="赖洪礼的 blog &raquo; WSGI on Phusion Passenger">being supported</a> on Phusion Passenger as well! This <a href="http://kbeezie.com/view/using-python-nginx-passenger/" title="Using Python with Nginx via Passenger &raquo;  KBeezie">would play nicely with Nginx</a> (<a href="http://www.modrails.com/documentation/Users%20guide%20Nginx.html" title="Phusion Passenger users guide, Nginx version">Docs</a>).
+
+For small applicatoins 
+
+
+Want to know how fashionable meditations works? I put the source code on Github where you can browse it and fork it, and even send me your contributions :)
+
+er is geen reden om je zorgen te maken hoor
+  dat moet altijd nog maar blijken
+  
+  Ik las een keer dat het opkwam onder reclamebureaus om campagnes voor niet bestaande producten te maken om prijzen te winnen, en toen dat problematisch werd, was er een bureau dat bedacht dat ze de 
+  
+  In advance of the Libre Graphic Meeting, the annual meeting of users and developers of open source graphics software, OSP organises a workshop for designers and free software. Including workshops by LUST (the hague! :))
+  
+  Designers
+What I really like about the work of Kisman, for example, that he experiments with every new medium to come his way (desktop publishing, internet, cd-rom, 3d-animation) and all of it
+Why?
