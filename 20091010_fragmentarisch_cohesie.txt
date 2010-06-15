@@ -1,3 +1,4 @@
+<section>
 Ik ben een kunstenaar
 
 Er is een landschap, een lichaam, een body
@@ -6,9 +7,9 @@ dat een vorm moet krijgen, neer moet slaan
 
 
 Ik heb geconcldeerd dat 
+</section>
 
-§
-
+<section>
 hoe is het met energie
   maak ik de opwarm wat hoe dan dagen
 
@@ -20,9 +21,9 @@ verjaardagsdag
 
 
 ik heb het gevoel dat ik voor die roman wel wat opzei moet kunnen willen zetten.
+</section>
 
-§
-
+<section>
 list of points
 
 picture
@@ -33,9 +34,9 @@ ouevre
 
 this square
 out of there
+</section>
 
-§
-
+<section>
 kutte
 interessante
 
@@ -48,3 +49,4 @@ een
 
 als mening hebr
 kom j er sterke uit
+</section>

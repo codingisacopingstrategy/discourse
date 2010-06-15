@@ -1,3 +1,5 @@
+<!-- ik neem aan dat ik dit schreef vlak nadat ik ’s nachts wakker schrok; ik kan me in ieder geval niet meer herinneren dat ik het schreef. het is typisch een moment van een gevoel van betekenis en daarom de syntaxis van betekenis (of een gedicht), maar uiteindelijk weinig concrete communicatieve betekenis -->
+<section>
 We moeten ons overgeven aan het feit deel uit te maken van websites met ongelukkige kleurencombinaties
 
 Onze teksten daar te zien verschijnen
@@ -18,3 +20,4 @@ We moeten ons overgeven aan het feit deel uit te maken van websites met ongelukk
 Onze teksten daar te zien verschijnen
 
 Terwijl we in de ruimte staan, die zich voor ons uitstrekt, jij en jij en ik
+</section>

@@ -1,4 +1,4 @@
-
+<section>
 
 ‘I like being a one person show
 approach it as a job?
@@ -8,3 +8,4 @@ interesting things to read
 general
 the scope is stuff that’s interesting
 i don]t have that elevator pitch
+</section>

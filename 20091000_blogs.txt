@@ -1,3 +1,4 @@
+<section>
 xx	Het is een blog xx
 
 P Posts over de beeldtaal van het internet worden afgewisseld met beelden van / ddie details weergeven van mijn werklplek--en videos diede zichzelf bewust wordende geest bemodeigen. Geest als in brein en zo. Bob Marley home video, redemption songs. Maar niet alleen deze films? David Carson. Toch ook iets dergelijks eigenlijk.
@@ -12,18 +13,21 @@ Gvd
 
 
 xx ziggy xx
-
+</section>
+<section about="this" property="dc:title" content="time is absolute">
 Who cares about space ships flying near the speed of light, or black holes?
 
 In real life time and space are pretty lineair.
+</section>
 
-§
-
+<section>
 An interstellar burst, I am back to save the universe
+</section>
 
-xx
-
+<section>
 i have friends who can code but hide this from other people
+</section>
 
-
+<section>
 you know you have gone to far when...
+</section>

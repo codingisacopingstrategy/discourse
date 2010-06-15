@@ -1,3 +1,4 @@
+<section>
 Bruno asked me, if in 5 minutes I could summarize and explain a bit about an article called the emancipated spectator which is an article by the French philospher Jacques Rancière.
 
 By the way, who am I? My name is Eric Schrijver. I was born in Amsterdam. I have studied interdisciplinary arts. And I have been working as a visual artist since 2006. I also teach graphic design. In this production I am the resident artist.
@@ -24,3 +25,4 @@ Seen in this light
 If you ask me, 
 
  Watching is just as In the real world, there can be no spectacle without the spectator.
+</section>

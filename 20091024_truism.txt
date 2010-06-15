@@ -1,1 +1,3 @@
+<section property="dc:type" content="truism">
 important things might be difficult—but they are simple
+</section>

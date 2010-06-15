@@ -1,3 +1,4 @@
+<section>
 So yeah, I found the light. Or rather, lay writhing under it, like Camus says. You see, the the truth is beatiful in a way that’s also quite scary. I think in the Romanticist terminology that would be called an experience of the sublime.
 That is why I do not believe in what Feynman is saying ‘When you find truth, you’ll know, for it will be beatiful’.
 I agree with what Churchill says: ‘Men ocassionaly stumble into truth. Most of them pick up and run off as if nothing ever happened.’
@@ -14,3 +15,4 @@ For one, I can make a nice looking Javascript accordion to display this intervie
 I do understand the religious faculty now, and how it is capable of producing such oddities as prophets and saints.
 
 That is why art is such a nice invention. It is really religion 2.0. Because artistic truths exist, as I said, inbetween people. Now artists probably still have all the feelings of revelation and zeal that religious luminaries could muster. But the standard response of our brain, that we are dealing with an absolute truth external to all of us, just won’t do. We will somehow have to be able to get these truths to be logical as intersubjective *. Religion, which tends to view truths as extrinsic to it’s practitioners, is inherently destructive.
+</section>

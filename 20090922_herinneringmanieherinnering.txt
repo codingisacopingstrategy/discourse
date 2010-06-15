@@ -1,6 +1,6 @@
 de herinnering:
 __
-
+<section>
 do you know what its like
 the nights
 not sleeping
@@ -11,11 +11,11 @@ your head
 ik kan het niet letterlijk
 
 and the guy on his bike
-
+</section>
 
 de stimulus:
 __
-
+<section>
 366
 01:29:08,456 --> 01:29:11,289
 Paris. I live in Paris.
@@ -38,3 +38,4 @@ when you're driving a car?
 01:29:18,566 --> 01:29:21,296
 Maybe it's something to do
 with the headlights.
+</section>

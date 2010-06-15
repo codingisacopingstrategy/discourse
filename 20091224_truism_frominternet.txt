@@ -1,6 +1,7 @@
+<section>
 What is left is a brittle patchwork of code that is expensive to maintain and impossible to scale.
+</section>
 
-§
-
+<section rel="http://www-cs-students.stanford.edu/~blynn/gitmagic/ch03.html">
 The truly paranoid should always write down the latest 20-byte SHA1 hash of the HEAD somewhere safe. It has to be safe, not private. For example, publishing it in a newspaper would work well, because it’s hard for an attacker to alter every copy of a newspaper.
-http://www-cs-students.stanford.edu/~blynn/gitmagic/ch03.html
+</section>

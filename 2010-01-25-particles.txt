@@ -1,11 +1,14 @@
+<section>
 What I know about the artist is that he will always start with a * introduction.
 
 sommige zinnetjes steeds terugkeren, vb in het werk van Lou Reed
 ‘all your tepid friends’
 
 of oscar van den boogaard, die bepaalde situaties, beelden, anekdotes, steeds opnieuw in de narratieven van zijn boeken verwerkt
+</section>
 
-
-the folly of self-deprecation
+<section>
+<span property="dc:title">the folly of self-deprecation</span>
 
 i mean, you have one
+<section>

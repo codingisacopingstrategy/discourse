@@ -1,3 +1,4 @@
+<section>
 It reminds me of an interview I read with this woman programming a film festival
 
 ‘But in contemporary popular culture there is a surprising amount of depth
@@ -20,10 +21,11 @@ Since the last reality turned out fake.
 
 
 Funny thing is, one reality turning out fake did not affect the characters full confidence in the realness of the next one
+</section>
 
 
 
 
-
-
+<section>
 well we didnt get to talk but looks like well get into that soon enough
+</section>

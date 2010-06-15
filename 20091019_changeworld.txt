@@ -1,1 +1,1 @@
-Your art might not change the world, but you might have to change the world to make your art.
+<section about="this" property="dc:type" content="truism">Your art might not change the world, but you might have to change the world to make your art.</section>
