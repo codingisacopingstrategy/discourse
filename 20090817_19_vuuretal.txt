@@ -1,3 +1,4 @@
+<section property="isVersionOf" content="interview">
 Ik ben dus [___] geweest
 
 Ik vind het nog het meest lijken op een soort kortsluiting:
@@ -34,4 +35,4 @@ Wanneer je naar het vuur kijkt en over het vuur zingt dan zing je al gauw: ik be
 
 Je ziet een autonummerbord en probeert betekenis aan de combinatie van cijfers toe te kennen. 
 
-
+</section>

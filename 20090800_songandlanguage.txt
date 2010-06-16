@@ -1,3 +1,4 @@
+<section>
 song: but my mind, cognition and bo-o-o-dy
 
 the wall it did fall
@@ -26,11 +27,16 @@ because the times, will keep rechanging
 as the times, they are rechanging
 i am another, and another is me
 please let go of your authenticity
+</section>
 
-the language of art
+<section about="this">
+<span property="dc:title">the language of art</span>
 
 Abnormalities include verbosity, abrupt transitions, literal interpretations and miscomprehension of nuance, use of metaphor meaningful only to the speaker, auditory perception deficits, unusually pedantic, formal or idiosyncratic speech, and oddities in loudness, pitch, intonation, prosody, and rhythm.
 
 (http://en.wikipedia.org/wiki/Asperger_syndrome#Speech_and_language)
+</section>
 
+<section>
 Talk of possible worlds is very widespread[weasel words] in contemporary philosophical discourse (especially in the English-speaking world), though much about them is disputed.
+</section>

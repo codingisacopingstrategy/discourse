@@ -1,3 +1,4 @@
+<section>
 The prevalent social discourse recognizes one type of smart. While there are two.
 
 Art is biological. Modern 
@@ -41,4 +42,4 @@ Art and morality and lifestyle are interdependent
 
   this is not l’art pour l’art, it is my experience, it is my opinion that 
 
-
+</section>
